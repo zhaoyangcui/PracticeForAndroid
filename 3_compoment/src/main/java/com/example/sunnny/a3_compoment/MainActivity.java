@@ -41,15 +41,37 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
     @Override
     public void onClick(View v) {
 
-        switch (v.getId()){
+        switch (v.getId()) {
             case R.id.button:
                 edt.setText("hello");
+                break;
+
             case R.id.red:
-                textView.setText("red");
+                if (ch_red.isChecked() && !ch_blue.isChecked())
+                    textView.setText(((CheckBox) v).getText().toString() + "Choosed");
+                else if (ch_red.isChecked() && ch_blue.isChecked())
+                    textView.setText("blue and red choosed");
+                else if (!ch_red.isChecked() && ch_blue.isChecked())
+                    textView.setText("blue Choosed");
+                else
+                    textView.setText("Nothing Choosed");
+                break;
             case R.id.blue:
-                textView.setText("blue");
+                if (ch_red.isChecked() && !ch_blue.isChecked())
+                    textView.setText("red Choosed");
+                else if (ch_red.isChecked() && ch_blue.isChecked())
+                    textView.setText("blue and red choosed");
+                else if (!ch_red.isChecked() && ch_blue.isChecked())
+                    textView.setText(((CheckBox) v).getText().toString()+"Choosed");
+                else
+                    textView.setText("Nothing Choosed");
+                break;
             case R.id.yes:
-                textView.setText("yes");
+                textView.setText(((RadioButton) v).getText().toString());
+                break;
+            case R.id.no:
+                textView.setText(((RadioButton) v).getText().toString());
+                break;
 
 
         }

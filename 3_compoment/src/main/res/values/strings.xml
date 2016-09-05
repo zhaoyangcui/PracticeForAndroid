@@ -4,4 +4,7 @@
     <string name="blue">blue</string>
     <string name="yes">yes</string>
     <string name="no">no</string>
+    <string name="nothing">nothing</string>
+    <string name="change">Change</string>
+    <string name="what_you_choose">what you choose</string>
 </resources>

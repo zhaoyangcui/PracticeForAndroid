@@ -11,17 +11,18 @@
     <EditText
         android:id="@+id/edittext"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content" />
+        android:layout_height="wrap_content"
+        android:text="@string/nothing"/>
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:textAllCaps="false"
-        android:text="Change"
+        android:text="@string/change"
         android:id="@+id/button" />
     <TextView android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="what you choose"
+        android:text="@string/what_you_choose"
         android:id="@+id/textView" />
     <CheckBox
         android:layout_width="wrap_content"
@@ -33,17 +34,21 @@
         android:layout_height="wrap_content"
         android:text="@string/blue"
         android:id="@+id/blue" />
+<RadioGroup
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/yes"
+        android:id="@+id/yes" />
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/no"
+        android:id="@+id/no" />
 
+</RadioGroup>
 
-        <RadioButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/yes"
-            android:id="@+id/yes" />
-        <RadioButton
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:text="@string/no"
-            android:id="@+id/no" />
 
 </LinearLayout>
