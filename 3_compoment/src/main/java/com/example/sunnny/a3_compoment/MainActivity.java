@@ -67,6 +67,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                     textView.setText("Nothing Choosed");
                 break;
             case R.id.yes:
+                //...
                 textView.setText(((RadioButton) v).getText().toString());
                 break;
             case R.id.no:
