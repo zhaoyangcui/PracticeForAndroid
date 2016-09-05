@@ -2,8 +2,21 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/1_HelloWorld/app.iml" filepath="$PROJECT_DIR$/1_HelloWorld/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_deliverdata_oneway/deliverdata.iml" filepath="$PROJECT_DIR$/10_deliverdata_oneway/deliverdata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_fragment/11_fragment.iml" filepath="$PROJECT_DIR$/11_fragment/11_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_differentscreen/13_differentscreen.iml" filepath="$PROJECT_DIR$/13_differentscreen/13_differentscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" filepath="$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2_testlogcat/2_testlogcat.iml" filepath="$PROJECT_DIR$/2_testlogcat/2_testlogcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3_compoment/3_compoment.iml" filepath="$PROJECT_DIR$/3_compoment/3_compoment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4_listview/4_listview.iml" filepath="$PROJECT_DIR$/4_listview/4_listview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5_recyclerview/5_recyclerview.iml" filepath="$PROJECT_DIR$/5_recyclerview/5_recyclerview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6_menu/6_menu.iml" filepath="$PROJECT_DIR$/6_menu/6_menu.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7_dialog/7_dialog.iml" filepath="$PROJECT_DIR$/7_dialog/7_dialog.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_cyclelife/8_cyclelife.iml" filepath="$PROJECT_DIR$/8_cyclelife/8_cyclelife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_secondactivity/9_secondactivity.iml" filepath="$PROJECT_DIR$/9_secondactivity/9_secondactivity.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndriodStudy.iml" filepath="$PROJECT_DIR$/AndriodStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1_HelloWorld/app.iml" filepath="$PROJECT_DIR$/1_HelloWorld/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/8_cyclelife/cyclelife.iml" filepath="$PROJECT_DIR$/8_cyclelife/cyclelife.iml" />
     </modules>
   </component>
 </project>

@@ -70,6 +70,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
                 //...
                 textView.setText(((RadioButton) v).getText().toString());
                 break;
+
             case R.id.no:
                 textView.setText(((RadioButton) v).getText().toString());
                 break;

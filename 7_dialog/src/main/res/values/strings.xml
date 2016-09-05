@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">7_dialog</string>
+    <string name="dialog">dialog</string>
+    <string name="login">login</string>
+    <string name="username">username</string>
+    <string name="admit">admit</string>
+    <string name="cancel">cancel</string>
+    <string name="password">密码</string>
+    <string name="name">用户名</string>
+</resources>

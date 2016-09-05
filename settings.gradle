@@ -1,1 +1,1 @@
-include ':1_HelloWorld'
+include ':1_HelloWorld', ':2_testlogcat', ':3_compoment', ':4_listview', ':5_recyclerview', ':6_menu', ':8_cyclelife', ':9_secondactivity', ':7_dialog', ':10_deliverdata_oneway', ':11_fragment', ':13_differentscreen', ':12_dilverdata_toandfro'
