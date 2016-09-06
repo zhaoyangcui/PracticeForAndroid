@@ -10,8 +10,14 @@
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/10_deliverdata_oneway" />
-            <option value="$PROJECT_DIR$/11_fragment" />
-            <option value="$PROJECT_DIR$/13_differentscreen" />
+            <option value="$PROJECT_DIR$/11_dilverdata_toandfro" />
+            <option value="$PROJECT_DIR$/12_fragment" />
+            <option value="$PROJECT_DIR$/13_PortAndLand" />
+            <option value="$PROJECT_DIR$/14_intent-filter" />
+            <option value="$PROJECT_DIR$/15_telephone" />
+            <option value="$PROJECT_DIR$/16_deepunderstand" />
+            <option value="$PROJECT_DIR$/17_sharedpreferences" />
+            <option value="$PROJECT_DIR$/18_insidememory" />
             <option value="$PROJECT_DIR$/1_HelloWorld" />
             <option value="$PROJECT_DIR$/2_testlogcat" />
             <option value="$PROJECT_DIR$/3_compoment" />
@@ -20,15 +26,22 @@
             <option value="$PROJECT_DIR$/6_menu" />
             <option value="$PROJECT_DIR$/7_dialog" />
             <option value="$PROJECT_DIR$/8_cyclelife" />
-            <option value="$PROJECT_DIR$/9_secondactivity" />
+            <option value="$PROJECT_DIR$/9_secondActivity" />
+            <option value="$PROJECT_DIR$/9_secondactivity2" />
           </set>
         </option>
         <option name="myModules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/10_deliverdata_oneway" />
-            <option value="$PROJECT_DIR$/11_fragment" />
-            <option value="$PROJECT_DIR$/13_differentscreen" />
+            <option value="$PROJECT_DIR$/11_dilverdata_toandfro" />
+            <option value="$PROJECT_DIR$/12_fragment" />
+            <option value="$PROJECT_DIR$/13_PortAndLand" />
+            <option value="$PROJECT_DIR$/14_intent-filter" />
+            <option value="$PROJECT_DIR$/15_telephone" />
+            <option value="$PROJECT_DIR$/16_deepunderstand" />
+            <option value="$PROJECT_DIR$/17_sharedpreferences" />
+            <option value="$PROJECT_DIR$/18_insidememory" />
             <option value="$PROJECT_DIR$/1_HelloWorld" />
             <option value="$PROJECT_DIR$/2_testlogcat" />
             <option value="$PROJECT_DIR$/3_compoment" />
@@ -37,7 +50,8 @@
             <option value="$PROJECT_DIR$/6_menu" />
             <option value="$PROJECT_DIR$/7_dialog" />
             <option value="$PROJECT_DIR$/8_cyclelife" />
-            <option value="$PROJECT_DIR$/9_secondactivity" />
+            <option value="$PROJECT_DIR$/9_secondActivity" />
+            <option value="$PROJECT_DIR$/9_secondactivity2" />
           </set>
         </option>
       </GradleProjectSettings>

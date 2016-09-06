@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/10_deliverdata_oneway/deliverdata.iml" filepath="$PROJECT_DIR$/10_deliverdata_oneway/deliverdata.iml" />
-      <module fileurl="file://$PROJECT_DIR$/11_fragment/11_fragment.iml" filepath="$PROJECT_DIR$/11_fragment/11_fragment.iml" />
-      <module fileurl="file://$PROJECT_DIR$/13_differentscreen/13_differentscreen.iml" filepath="$PROJECT_DIR$/13_differentscreen/13_differentscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_deliverdata_oneway/10_deliverdata_oneway.iml" filepath="$PROJECT_DIR$/10_deliverdata_oneway/10_deliverdata_oneway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_dilverdata_toandfro/12_dilverdata_toandfro.iml" filepath="$PROJECT_DIR$/11_dilverdata_toandfro/12_dilverdata_toandfro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_fragment/11_fragment.iml" filepath="$PROJECT_DIR$/12_fragment/11_fragment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_PortAndLand/13_differentscreen.iml" filepath="$PROJECT_DIR$/13_PortAndLand/13_differentscreen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/14_intent-filter/14_intent-filter.iml" filepath="$PROJECT_DIR$/14_intent-filter/14_intent-filter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/15_telephone/15_telephone.iml" filepath="$PROJECT_DIR$/15_telephone/15_telephone.iml" />
+      <module fileurl="file://$PROJECT_DIR$/16_deepunderstand/16_deepunderstand.iml" filepath="$PROJECT_DIR$/16_deepunderstand/16_deepunderstand.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_sharedpreferences/17_sharedpreferences.iml" filepath="$PROJECT_DIR$/17_sharedpreferences/17_sharedpreferences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_insidememory/18_insidememory.iml" filepath="$PROJECT_DIR$/18_insidememory/18_insidememory.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" filepath="$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_testlogcat/2_testlogcat.iml" filepath="$PROJECT_DIR$/2_testlogcat/2_testlogcat.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_compoment/3_compoment.iml" filepath="$PROJECT_DIR$/3_compoment/3_compoment.iml" />
@@ -13,10 +19,12 @@
       <module fileurl="file://$PROJECT_DIR$/6_menu/6_menu.iml" filepath="$PROJECT_DIR$/6_menu/6_menu.iml" />
       <module fileurl="file://$PROJECT_DIR$/7_dialog/7_dialog.iml" filepath="$PROJECT_DIR$/7_dialog/7_dialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/8_cyclelife/8_cyclelife.iml" filepath="$PROJECT_DIR$/8_cyclelife/8_cyclelife.iml" />
-      <module fileurl="file://$PROJECT_DIR$/9_secondactivity/9_secondactivity.iml" filepath="$PROJECT_DIR$/9_secondactivity/9_secondactivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_secondActivity/9_secondActivity.iml" filepath="$PROJECT_DIR$/9_secondActivity/9_secondActivity.iml" />
+      <module fileurl="file://$PROJECT_DIR$/9_secondactivity2/9_secondactivity2.iml" filepath="$PROJECT_DIR$/9_secondactivity2/9_secondactivity2.iml" />
       <module fileurl="file://$PROJECT_DIR$/AndriodStudy.iml" filepath="$PROJECT_DIR$/AndriodStudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_HelloWorld/app.iml" filepath="$PROJECT_DIR$/1_HelloWorld/app.iml" />
       <module fileurl="file://$PROJECT_DIR$/8_cyclelife/cyclelife.iml" filepath="$PROJECT_DIR$/8_cyclelife/cyclelife.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_deliverdata_oneway/deliverdata.iml" filepath="$PROJECT_DIR$/10_deliverdata_oneway/deliverdata.iml" />
     </modules>
   </component>
 </project>

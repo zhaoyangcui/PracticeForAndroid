@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">12_dilverdata_to and fro</string>
+    <string name="another">another</string>
+    <string name="another_activity">another_activity</string>
+    <string name="change_to_another_activity">change to another activity</string>
+    <string name="show_the_name">show the name:</string>
+</resources>
