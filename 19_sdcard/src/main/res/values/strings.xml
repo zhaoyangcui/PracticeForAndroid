@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">19_SDcard</string>
+    <string name="write_to_the_file">write to the file</string>
+    <string name="read_from_the_file">read from the file</string>
 </resources>
