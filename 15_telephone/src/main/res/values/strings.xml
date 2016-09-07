@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">15_telephone</string>
+    <string name="dial">dial</string>
 </resources>

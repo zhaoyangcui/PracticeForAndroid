@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">14_intent-filter</string>
+    <string name="implicit">implicit</string>
+    <string name="nice">nice</string>
 </resources>

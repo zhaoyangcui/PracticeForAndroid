@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">16_DeepUnderstand</string>
+    <string name="intent_filter">intent-filter</string>
 </resources>
