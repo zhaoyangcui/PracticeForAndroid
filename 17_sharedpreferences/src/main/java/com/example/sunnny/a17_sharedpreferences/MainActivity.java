@@ -37,12 +37,9 @@ public class MainActivity extends AppCompatActivity {
         button_read.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                String str_name = preferences.getString(Key_name, null);
-                String str_id = preferences.getString(Key_id, null);
-                if (str_name != null && str_id != null)
+                String str_name = preferences.getString(Key_name, "Cindy");
+                String str_id = preferences.getString(Key_id, "2014011446");
                     Toast.makeText(MainActivity.this, "Name:" + str_name + "ID:" + str_id, Toast.LENGTH_LONG).show();
-                else
-                    Toast.makeText(MainActivity.this, "无数据", Toast.LENGTH_LONG).show();
             }
         });
     }
