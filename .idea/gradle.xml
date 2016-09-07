@@ -20,6 +20,10 @@
             <option value="$PROJECT_DIR$/18_insidememory" />
             <option value="$PROJECT_DIR$/19_sdcard" />
             <option value="$PROJECT_DIR$/1_HelloWorld" />
+            <option value="$PROJECT_DIR$/22_Contacter" />
+            <option value="$PROJECT_DIR$/23_contentobserver" />
+            <option value="$PROJECT_DIR$/24_startservice" />
+            <option value="$PROJECT_DIR$/25_bindservice" />
             <option value="$PROJECT_DIR$/26_handler" />
             <option value="$PROJECT_DIR$/27_broad" />
             <option value="$PROJECT_DIR$/2_testlogcat" />
@@ -47,6 +51,10 @@
             <option value="$PROJECT_DIR$/18_insidememory" />
             <option value="$PROJECT_DIR$/19_sdcard" />
             <option value="$PROJECT_DIR$/1_HelloWorld" />
+            <option value="$PROJECT_DIR$/22_Contacter" />
+            <option value="$PROJECT_DIR$/23_contentobserver" />
+            <option value="$PROJECT_DIR$/24_startservice" />
+            <option value="$PROJECT_DIR$/25_bindservice" />
             <option value="$PROJECT_DIR$/26_handler" />
             <option value="$PROJECT_DIR$/27_broad" />
             <option value="$PROJECT_DIR$/2_testlogcat" />

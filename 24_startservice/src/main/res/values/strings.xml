@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">26_StartService</string>
+    <string name="start_the_service">start the service</string>
+    <string name="stop_the_service">stop the service</string>
+</resources>

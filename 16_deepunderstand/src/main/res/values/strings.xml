@@ -1,4 +1,7 @@
 <resources>
     <string name="app_name">16_DeepUnderstand</string>
     <string name="intent_filter">intent-filter</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="the_second_one">the second one</string>
+    <string name="the_third_one">the third one</string>
 </resources>
