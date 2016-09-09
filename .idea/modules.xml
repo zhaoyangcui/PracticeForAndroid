@@ -16,13 +16,19 @@
       <module fileurl="file://$PROJECT_DIR$/18_insidememory/18_insidememory.iml" filepath="$PROJECT_DIR$/18_insidememory/18_insidememory.iml" />
       <module fileurl="file://$PROJECT_DIR$/19_sdcard/19_sdcard.iml" filepath="$PROJECT_DIR$/19_sdcard/19_sdcard.iml" />
       <module fileurl="file://$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" filepath="$PROJECT_DIR$/1_HelloWorld/1_HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/20_vocabularybook/20_vocabularybook.iml" filepath="$PROJECT_DIR$/20_vocabularybook/20_vocabularybook.iml" />
+      <module fileurl="file://$PROJECT_DIR$/21_contentprovider/21_contentprovider.iml" filepath="$PROJECT_DIR$/21_contentprovider/21_contentprovider.iml" />
       <module fileurl="file://$PROJECT_DIR$/22_Contacter/22_Contacter.iml" filepath="$PROJECT_DIR$/22_Contacter/22_Contacter.iml" />
       <module fileurl="file://$PROJECT_DIR$/23_contentobserver/23_contentobserver.iml" filepath="$PROJECT_DIR$/23_contentobserver/23_contentobserver.iml" />
-      <module fileurl="file://$PROJECT_DIR$/24_startservice/26_startservice.iml" filepath="$PROJECT_DIR$/24_startservice/26_startservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24_startservice/24_startservice.iml" filepath="$PROJECT_DIR$/24_startservice/24_startservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/25_bindservice/25_bindservice.iml" filepath="$PROJECT_DIR$/25_bindservice/25_bindservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/26_handler/26_handler.iml" filepath="$PROJECT_DIR$/26_handler/26_handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/24_startservice/26_startservice.iml" filepath="$PROJECT_DIR$/24_startservice/26_startservice.iml" />
       <module fileurl="file://$PROJECT_DIR$/27_broad/27_broad.iml" filepath="$PROJECT_DIR$/27_broad/27_broad.iml" />
+      <module fileurl="file://$PROJECT_DIR$/28_mediaplayer/28_mediaplayer.iml" filepath="$PROJECT_DIR$/28_mediaplayer/28_mediaplayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/29_takephoto/29_takephoto.iml" filepath="$PROJECT_DIR$/29_takephoto/29_takephoto.iml" />
       <module fileurl="file://$PROJECT_DIR$/2_testlogcat/2_testlogcat.iml" filepath="$PROJECT_DIR$/2_testlogcat/2_testlogcat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/30_drawpicture/30_drawpicture.iml" filepath="$PROJECT_DIR$/30_drawpicture/30_drawpicture.iml" />
       <module fileurl="file://$PROJECT_DIR$/3_compoment/3_compoment.iml" filepath="$PROJECT_DIR$/3_compoment/3_compoment.iml" />
       <module fileurl="file://$PROJECT_DIR$/4_listview/4_listview.iml" filepath="$PROJECT_DIR$/4_listview/4_listview.iml" />
       <module fileurl="file://$PROJECT_DIR$/5_recyclerview/5_recyclerview.iml" filepath="$PROJECT_DIR$/5_recyclerview/5_recyclerview.iml" />

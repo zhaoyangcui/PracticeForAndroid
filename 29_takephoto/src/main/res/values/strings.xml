@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">29_TakePhoto</string>
+    <string name="take_photo">take photo</string>
+    <string name="save_photo">save photo</string>
+</resources>
