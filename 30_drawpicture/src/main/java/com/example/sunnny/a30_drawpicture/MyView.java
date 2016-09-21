@@ -30,33 +30,36 @@ public class MyView extends View {
         paint.setAntiAlias(true);
         paint.setColor(Color.YELLOW);
         paint.setStrokeWidth(5);
-        drawRect(100,100,200,200);
+        drawRect(100,100,400,200);
         draw();
         drawText();
+    }
+
+
+
+    public void draw(){
+        Path path = new Path();
+        //画三角形
+        path.moveTo(500,120);
+        path.lineTo(1400,120);
+        path.lineTo(1200,1400);
+        path.close();
+        canvas.drawPath(path,paint);
+    }
+    public void drawRect(float left,float top,float right,float bottom){
+        //画矩形
+        canvas.drawRect(left,top,right,bottom,paint);
     }
     //画文字
     public void drawText(){
         paint.setTextSize(100);
         Path path = new Path();
-        path.moveTo(50,300);
+        path.moveTo(50,200);
         paint.setStrikeThruText(true);
-        Path text_path = new Path();
-        text_path.addCircle(200,300,80,Path.Direction.CCW);
-        canvas.drawTextOnPath("Nice!",text_path,0,10,paint);
+        Path path_text = new Path();
+        //文字画成环形
+        path_text.addCircle(200,1000,100,Path.Direction.CCW);
+        canvas.drawTextOnPath("Nice job!",path_text,0,10,paint);
     }
 
-    public void drawRect(float left,float top,float right,float bottom){
-        //画矩形
-        canvas.drawRect(left,top,right,bottom,paint);
-    }
-
-    public void draw(){
-        Path path = new Path();
-        //画三角形
-        path.moveTo(500,0);
-        path.lineTo(1000,0);
-        path.lineTo(1200,1000);
-        path.close();
-        canvas.drawPath(path,paint);
-    }
 }

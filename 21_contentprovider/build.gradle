@@ -5,7 +5,7 @@ android {
     buildToolsVersion "24.0.2"
 
     defaultConfig {
-        applicationId "com.example.sunnny.a21_contentprovider"
+        applicationId "app.company.com.a21_contentprovider"
         minSdkVersion 21
         targetSdkVersion 24
         versionCode 1
